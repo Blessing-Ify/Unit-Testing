@@ -1,0 +1,14 @@
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.exe
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.deps.json
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.runtimeconfig.json
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.runtimeconfig.dev.json
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.dll
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\bin\Debug\netcoreapp3.1\Bank_Unit_Testing.pdb
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.AssemblyInfo.cs
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.dll
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.pdb
+C:\Users\Decagon\Documents\c sharp\Bank_Unit_Testing\Bank_Unit_Testing\obj\Debug\netcoreapp3.1\Bank_Unit_Testing.genruntimeconfig.cache
